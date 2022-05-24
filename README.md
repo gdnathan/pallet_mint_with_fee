@@ -1,3 +1,7 @@
+**unsupported
+
+This pallet is now supported on https://github.com/rusty-crewmates/pallet_mint_with_fee
+
 The pallet adds functionality to mint a value on an account, and to optionally mint a percentage of this value on another account (as a fee).
 It also provides an extrinsic to change the percentage value.
 
